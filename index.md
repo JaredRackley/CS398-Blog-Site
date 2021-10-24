@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Quantum Applications in Machine Learning
 
 You can use the [editor on GitHub](https://github.com/JaredRackley/CS398-Blog-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
