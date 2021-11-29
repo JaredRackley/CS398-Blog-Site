@@ -2,7 +2,7 @@ html {
     font-family: 'Roboto Mono', monospace;
 }
 
-* {
+div {
     display: flex;
     width: 100vw;
     height: 100vh;
