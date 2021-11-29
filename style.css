@@ -4,8 +4,8 @@ html {
 }
 
 img {
-    opacity: 0.5;
-  }
+    align-items: center;
+}
 
 .author {
     text-align: center;
