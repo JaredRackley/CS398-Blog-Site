@@ -1,8 +1,4 @@
-
-
-
-<pre
-class="prettyprint">Quantum Applications in AI
+Quantum Applications in AI
 Jared Rackley
 
 Artificial intelligence has become a popular buzzword among popular culture today. However, this has also been a big factor in spreading misinformation about AI applications, with movies spreading propaganda of a future run by it. However, quantum computing has also been a field of interest, with great possibilities in the future. These two fields of computer science are very powerful and can both stand on their own. However, even greater possibilities arise when they are combined!
@@ -18,7 +14,6 @@ The other type of AI that is much harder to develop, meaning it cannot be used, 
 This example proved that machines have constraints that humans don't. Gödel was able to see the flaw with the arithmetic system F, and humans can account for this, while no machine could account for this, because it itself exists within these constraints. 
 
 This isn't to say that general AI cannot be achieved. In fact, another scientist named Schmidhuber developed the Gödel machine, which uses a recursive strategy to self-improve (4). Still, we have not been able to develop an AI system that is capable of self-developing, other than very specific situations. Branislav Holländer, who wrote an article on this topic, stated this:
-</pre>
 <p>
     “The problem with [an AI that develops without human intervention], however,
 is that <strong>we actually did not succeed in constructing any self-improving
@@ -33,8 +28,7 @@ intelligence required.”
 </p>
 
 
-<pre
-class="prettyprint">Read more about Why We May Never Develop General AI: https://towardsdatascience.com/why-we-may-never-develop-strong-ai-e49c805480f
+Read more about Why We May Never Develop General AI: https://towardsdatascience.com/why-we-may-never-develop-strong-ai-e49c805480f
 
 However, this does not mean that AI cannot do fantastic things. In 2020, DeepMind's AI solved the protein-folding problem, which had been baffling Scientists for 50 years (2). Other examples include virtual assistants, which many people had thought were impossible, but now exist in most smartphones, and automated vehicles, which for the drive better than most humans in general situations. AI still continues to develop, and it continues to have technological breakthroughs!
 
@@ -49,7 +43,6 @@ Because of this, when we put quantum bits into a quantum register (a register th
 Quantum Applications in AI
 
 References:
-</pre>
 <ol>
 <li><code><a
 href="https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/?sh=66c1a3e866f6">https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/?sh=66c1a3e866f6</a></code>
@@ -67,3 +60,4 @@ href="https://towardsdatascience.com/why-we-may-never-develop-strong-ai-e49c8054
 <pre
 class="prettyprint">Image Links:
     https://toptenscience.com/wp-content/uploads/2019/04/artificial-intelligence.jpg
+</pre>
