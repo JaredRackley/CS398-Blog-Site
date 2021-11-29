@@ -2,6 +2,10 @@ html {
     font-family: 'Roboto Mono', monospace;
 }
 
+.author {
+    text-align: center;
+}
+
 html,
 body,
 .container {
