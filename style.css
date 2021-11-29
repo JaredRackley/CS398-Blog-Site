@@ -1,6 +1,11 @@
 html {
     font-family: 'Roboto Mono', monospace;
+    background-image: './background.jpg';
 }
+
+img {
+    opacity: 0.5;
+  }
 
 .author {
     text-align: center;
