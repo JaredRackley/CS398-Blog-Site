@@ -3,7 +3,10 @@ html {
 }
 
 div {
-    text-align: center;
-    word-wrap: normal;  
-    margin: auto;
+    /* word-wrap: normal;   */
+    /* margin: auto; */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
