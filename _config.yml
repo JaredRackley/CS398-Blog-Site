@@ -1,5 +1,5 @@
-name: Quantum Applications In Artifical Intelligence
+theme: jekyll-architect
 author: Jared Rackley
-title: null
+title: Quantum Applications In Artifical Intelligence
 github:
   is_project_page: false
