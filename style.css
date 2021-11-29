@@ -10,9 +10,8 @@ body,
 }
 .container {
     display: flex;
-    align-items: center;
     justify-content: center;
 }
 .content {
-    width: 80px;
+    width: 50%;
   }
