@@ -5,9 +5,14 @@ html {
     
 }
 
-img {
+#ai {
     align-items: center;
     width: 100%;
+}
+
+#godel {
+  width: 50%;
+  height: 50%;
 }
 
 .author {
