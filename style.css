@@ -57,3 +57,7 @@ body,
  .quote p {
     display: inline;
   }
+
+  .additional-resources {
+    margin-left: 8%;
+  }
