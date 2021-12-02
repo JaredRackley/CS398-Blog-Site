@@ -36,6 +36,7 @@ body,
 .quote {
     background: #5ADEFF;
     border-left: 10px solid #00BDFE;
+    border-radius: 8px;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
     quotes: "\201C""\201D""\2018""\2019";
