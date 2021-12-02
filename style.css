@@ -1,6 +1,8 @@
 html {
     font-family: 'Roboto Mono', monospace;
     background-color: skyblue;
+    overflow-x: hidden;
+    
 }
 
 img {
